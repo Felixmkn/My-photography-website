@@ -124,14 +124,15 @@ button a{
 }
 /* gallery  */
 .album{
-    width: 80%;
+    width: 100%;
     margin: auto;
+    margin-left: 10%; 
 }
 .gallery {
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
-    width: 23%;
+    width: 20%;
 
   }
   

@@ -1,6 +1,6 @@
 # My PhotoGraphy Website
 ## Author
-Felix Mwangi Karatasi
+Felix Mwangi 
 
 ## Description
 
@@ -39,4 +39,4 @@ Vie [Design](https://www.figma.com/file/PUY05tM1tFw6w2P3MBqsuQ/Untitled?node-id=
 ### Licence
 This project is under the  [MIT](LICENSE) licence:<br>
 
-Copyright (c) 2021 Felix Mwangi karatasi
+Copyright (c) 2021 Felix Mwangi 
