@@ -48,11 +48,16 @@ ul li a{
     color: white;
     text-align: center;
 }
+#heading h1{
+   padding: 20px;
+   font-family: monospace;
+   color: #3fe715;
+}
 #heading p{
     padding-left:20% ;
     padding-right:20%;
     padding-bottom:5%;
-    padding-top:5%;
+    font-size: 24px;
 }
 
 button{
@@ -81,11 +86,11 @@ button{
 .col-1{
     padding: 8% 5%;
 }
-.col-1 > h1{
+.col-1  h1{
    font-size: 60px;
    line-height: 80px;
    letter-spacing: 2px;
-   color: rgb(216, 220, 221);
+   color: #3fe715;;
 }
 .col-1 p{
     color: rgb(236, 246, 247);
@@ -107,12 +112,16 @@ button a{
     margin-top: 10px;
     text-align: center;
     padding: 20px;
-    color: white;
+   
 }
-.about h2{
+.about h1{
     padding-bottom: 10px;
+    color: #3fe715;
 }
+.about p{
+    color: white;
 
+}
 /* gallery  */
 .album{
     width: 80%;
@@ -154,9 +163,10 @@ button a{
     margin-top: 30px;
     padding:20px;
 }
-.contact h2{
+.contact h1{
     padding:3em;
     padding-bottom: 0;
+    color: #3fe715;
 }
 input[type=text], select, textarea {
     width: 50%;
