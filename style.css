@@ -19,7 +19,7 @@
     padding: 25px 0;
     display: flex;
     align-items: center;
-    background: rgb(17, 104, 110);
+    background: #11686e;
 }
 .logo{
     flex:1;
@@ -28,7 +28,6 @@
     color: white;
     font-size: 20px; 
     padding: 6px; 
-    border: 2px dashed cornsilk;
     width: 150px;
 }
 #lists ul{
@@ -60,10 +59,9 @@ button{
     padding: 15px 40px;
     border: 0;
     border-radius: 25px;
-    background: rgb(38, 94, 121);
+    background: #265e79;
     color: white;
     font-size: 14px;
-    box-shadow: 0 10px 10px rgb(16, 28, 54);
 }
 
 .row{
@@ -177,7 +175,7 @@ input[type=text], select, textarea {
     background: rgb(38, 94, 121);
     color: white;
     font-size: 14px;
-    box-shadow: 0 10px 10px rgb(16, 28, 54);
+    box-shadow: rgb(16, 28, 54);
   }
   
   /* Add a background color and some padding around the form */
