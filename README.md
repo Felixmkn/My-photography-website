@@ -33,6 +33,9 @@ To acces this project, you need to clone it using these steps;
 ### Live Site
 View [live](https://felixmkn.github.io/My-photography-website/)
 
+### Design
+Vie [Design](https://www.figma.com/file/PUY05tM1tFw6w2P3MBqsuQ/Untitled?node-id=0%3A1)
+
 ### Licence
 This project is under the  [MIT](LICENSE) licence:<br>
 
