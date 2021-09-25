@@ -135,10 +135,7 @@ button a{
     width: 20%;
 
   }
-  
-  .gallery:hover {
-    border: 1px solid #777;
-  }
+
   
 .gallery img {
     width: 100%;
