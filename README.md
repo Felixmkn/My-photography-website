@@ -36,4 +36,4 @@ View [live](https://)
 ### Licence
 This project is under the  [MIT](LICENSE) licence:<br>
 
-Copyright (c) 2021 JOY L. KOLIA
+Copyright (c) 2021 Felix Mwangi karatasi
